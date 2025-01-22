@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+# Anjali Arya
 ## Table of contents
 
 * [Installation](#Installation)
